@@ -1,0 +1,23 @@
+# Pliki binarne
+/build/
+/*.exe
+/*.out
+/*.log
+
+# CMake
+/CMakeFiles/
+/CMakeCache.txt
+/*.cmake
+
+# Systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki tymczasowe IDE
+*.user
+*.swp
+*.swo
+.idea/
+*.vcxproj
+*.vcxproj.filters
+
